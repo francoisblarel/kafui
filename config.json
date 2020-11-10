@@ -1,0 +1,4 @@
+{
+  "config": "some config",
+  "brokers" : "localhost:9092"
+}
